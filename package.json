@@ -1,0 +1,8 @@
+{
+  "name": "lebrel-eslint-config",
+  "version": "1.0.0",
+  "description": "Lebrel ESLint configuration project.",
+  "main": "index.js",
+  "author": "Jair Anguiano",
+  "license": "MIT"
+}
